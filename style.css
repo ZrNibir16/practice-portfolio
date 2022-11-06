@@ -15,7 +15,7 @@ h1 {
 }
 
 h3 {
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .cuet-name {
@@ -88,6 +88,67 @@ p {
     text-decoration: none;
     padding: 1%;
     background-image: linear-gradient(green, lightgreen);
+    color: white;
+    font-weight: 550;
+    border-radius: 8px;
+}
+
+h4 {
+    font-size: 25px;
+}
+
+.incube {
+    height: 173px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.it-park {
+    display: flex;
+}
+
+.kuet-it {
+    width: 50%;
+    margin-left: 10%;
+    box-shadow: 10px 10px 30px green;
+    border-radius: 10px;
+    padding: 3%;
+    border-left: 10px solid;
+    border-image: linear-gradient(green, lightgreen);
+    border-image-slice: 1;
+}
+
+.cuet-it {
+    width: 50%;
+    box-shadow: 10px 10px 30px cyan;
+    border-radius: 10px;
+    padding: 3%;
+    border-left: 10px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+
+.year {
+    color: blueviolet;
+    text-align: center;
+}
+
+.headstyleC {
+    text-decoration: none;
+    padding: 2%;
+    background-image: linear-gradient(darkblue, cyan);
+    color: white;
+    font-weight: 550;
+    border-radius: 8px;
+}
+
+.headstylek {
+    text-decoration: none;
+    padding: 2%;
+    background-image: linear-gradient(green, rgb(162, 233, 162));
     color: white;
     font-weight: 550;
     border-radius: 8px;
